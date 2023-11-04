@@ -264,7 +264,7 @@ class Customer:public Admin
 			j++;
 		}
 };
-	//object for customer//
+	//object for customer
 	Customer judo_customer[3];
 	int s=0;
 int main()
