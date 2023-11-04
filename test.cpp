@@ -30,8 +30,9 @@ class Admin
 				cin>>cost[i];
 			}
 			cout<<"Sucessfuly insert\n";
-		}
+        }
 //for admin input and display 
+//
 		void display_admin()
 		{	cout<<"No.\t\t Planning \t\t Price"<<endl;
 			for(int i=0;i<3;i++)
